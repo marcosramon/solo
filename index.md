@@ -6,7 +6,7 @@ layout: default
 
 Acompanhe esse site para ter acesso ao link atualizado do canal do YouTube "[Jogos do Arthur](https://www.youtube.com/channel/UCA2MLoiGNkw3V457N0yR5SA)".
 
-<img src="https://drive.google.com/file/d/1yKzpkn35VrCCSwGMgTsyEtDnz7rlavvb/view">
+<img src="assets/images/video1.png">
 
 Vídeo mais recente enviado:
 
